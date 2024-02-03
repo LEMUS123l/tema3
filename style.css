@@ -1,0 +1,24 @@
+.cuadro{
+   width: 250px; 
+   height:250px;
+   border: 2px solid cornflowerblue;
+   
+}
+.toyota{
+    width:250px;
+    height:250px;
+}
+#toyota{
+    box-shadow: 2px 2px 10px rgb(0, 0, 0);
+}
+#pcircular{
+    border-radius: 50%;
+    background:url("https://files.hodoor.world/main/370a96a3-cc0c-4834-b3cb-207b44ba4820.jpg")no-repeat;
+    background-size: cover;
+}
+#efecto{
+    /*opacity: 0.5;*/
+    /*filter:grayscale(100%)*/
+    /*filter:blur(5px)*/
+    filter:contrast(500%)
+}
